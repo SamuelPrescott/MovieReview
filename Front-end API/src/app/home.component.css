@@ -1,0 +1,9 @@
+.card.mb-2{
+    height: 30rem;
+    background-color: rgb(218, 152, 30);
+
+}
+.card-footer{
+    text-align: center;
+    color: white;
+}

@@ -1,0 +1,14 @@
+.error{ background-color: #f8d1d1;}
+
+.form-control{
+    background-color: rgb(187, 151, 83);
+    height: fit-content;
+}
+.col-sm-18{
+    color: white;
+    width: 40rem;
+    margin-left: 25%;
+}
+h2{
+    text-align: center;
+}

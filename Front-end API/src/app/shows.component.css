@@ -1,0 +1,13 @@
+.col-sm-12{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.card-header{
+    background-color:rgb(218, 152, 30)
+}
+.card-footer{
+    background-color: rgb(187, 151, 83);
+}
+.card-body{
+    background-color: rgb(187, 151, 83);
+}
